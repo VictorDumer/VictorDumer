@@ -24,6 +24,6 @@
   
   <h1 align="center"> A little about Victor Dumer</h1>
   
-  <p align="center"> My full name is Victor Gabriel Cruz De Souza Dumer. I was born in São Paulo, Brazil, and I am 15 years old. Currently, I am a student at Etec Bento Quirino, a high school in Brazil. I believe technology is the future of the world, and I want to be someone who helps shape that future</p>
+  <p align="center"> My full name is Victor Gabriel Cruz De Souza Dumer. I was born in São Paulo, Brazil, and I am 15 years old. Currently, I am a student at Etec Bento Quirino, a high school in Brazil. I believe technology is the future of the world, and I want to be someone who shape the world</p>
 
 </div>
