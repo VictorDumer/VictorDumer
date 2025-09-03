@@ -3,8 +3,20 @@
 <div align="center">
   
   ### Some of my stats:
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDumer&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=VictorDumer&show_icons=true&theme=radical" height="250"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDumer&layout=donut-vertical&theme=radical" height="350"/></td>
+  </tr>
+</table>
+
+![Snake animation](https://github.com/VictorDumer/VictorDumer/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
 
 ##
 </div>
