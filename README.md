@@ -10,8 +10,7 @@
   </tr>
 </table>
 
-![Snake animation](https://github.com/VictorDumer/VictorDumer/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/VictorDumer/VictorDumer/blob/main/github-user-contribution.svg)
 
 
 
