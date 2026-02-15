@@ -1,24 +1,6 @@
 # <p align="center">  Hi I'm Victor Dumer 🖐️😄</p>
 
-<div align="center">
-  
-  ### Some of my stats:
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=VictorDumer&show_icons=true&theme=radical" height="250"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDumer&layout=donut-vertical&theme=radical" height="350"/></td>
-  </tr>
-</table>
 
-![Snake animation](https://github.com/VictorDumer/VictorDumer/blob/main/github-user-contribution.svg)
-
-
-
-
-
-
-##
-</div>
 
 <h3 align="center"><strong>Technologies of my day</strong></h3>
 <div align="center" style="display: inline-block;"><br>
@@ -42,4 +24,16 @@
   
   <p align="center"> My name is Victor Gabriel C.S Dumer. I was born in São Paulo, Brazil, and I am 15 years old. Currently, I am a student at Etec Bento Quirino, a high school in Brazil. I believe technology is the future of the world, and I want to be someone who shape the world</p>
 
+</div>
+
+<div align="center">
+  
+![Snake animation](https://github.com/VictorDumer/VictorDumer/blob/main/github-user-contribution.svg)
+
+
+
+
+
+
+##
 </div>
